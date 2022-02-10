@@ -1,3 +1,5 @@
+*Kata cumplida exitosamente*
+
 # Ejercicio - Crear un paquete
 
 En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para no afectar a los paquetes instalados globalmente u otros programas que se ejecutan en tu máquina.
