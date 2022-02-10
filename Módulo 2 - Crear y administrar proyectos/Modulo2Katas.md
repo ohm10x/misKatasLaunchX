@@ -1,4 +1,4 @@
-*Kata cumplida exitosamente*
+*Nota: Kata cumplida exitosamente*
 
 # Ejercicio - Crear un paquete
 
